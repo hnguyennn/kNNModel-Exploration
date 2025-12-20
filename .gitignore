@@ -1,0 +1,5 @@
+# Ignore zip folder and RStudio project file
+zip/
+.Rproj.user/
+final\ project.Rproj
+.DS_Store
